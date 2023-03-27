@@ -1,0 +1,15 @@
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\Desafio Projeto 1.csproj.AssemblyReference.cache
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\Desafio Projeto 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\Desafio Projeto 1.AssemblyInfoInputs.cache
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\Desafio Projeto 1.AssemblyInfo.cs
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\Desafio Projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\bin\Debug\net7.0\Desafio Projeto 1.exe
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\bin\Debug\net7.0\Desafio Projeto 1.deps.json
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\bin\Debug\net7.0\Desafio Projeto 1.runtimeconfig.json
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\bin\Debug\net7.0\Desafio Projeto 1.dll
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\bin\Debug\net7.0\Desafio Projeto 1.pdb
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\Desafio Projeto 1.dll
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\refint\Desafio Projeto 1.dll
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\Desafio Projeto 1.pdb
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\Desafio Projeto 1.genruntimeconfig.cache
+C:\Users\Ana Beatriz\Documents\CURSOS\Desafio Projeto 1\obj\Debug\net7.0\ref\Desafio Projeto 1.dll
